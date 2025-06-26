@@ -1,0 +1,65 @@
+{
+    "MyInteligentAgent": {
+        "checkpoints": [
+            {
+                "steps": 33502,
+                "file_path": "results\\ia2\\MyInteligentAgent\\MyInteligentAgent-33502.onnx",
+                "reward": -377.5274963378906,
+                "creation_time": 1750886916.5820205,
+                "auxillary_file_paths": [
+                    "results\\ia2\\MyInteligentAgent\\MyInteligentAgent-33502.pt"
+                ]
+            },
+            {
+                "steps": 75926,
+                "file_path": "results\\ia2\\MyInteligentAgent\\MyInteligentAgent-75926.onnx",
+                "reward": -355.4093297322591,
+                "creation_time": 1750887798.1361346,
+                "auxillary_file_paths": [
+                    "results\\ia2\\MyInteligentAgent\\MyInteligentAgent-75926.pt"
+                ]
+            },
+            {
+                "steps": 130526,
+                "file_path": "results\\ia2\\MyInteligentAgent\\MyInteligentAgent-130526.onnx",
+                "reward": -390.71049785614014,
+                "creation_time": 1750888326.6643116,
+                "auxillary_file_paths": [
+                    "results\\ia2\\MyInteligentAgent\\MyInteligentAgent-130526.pt"
+                ]
+            },
+            {
+                "steps": 499943,
+                "file_path": "results\\ia2\\MyInteligentAgent\\MyInteligentAgent-499943.onnx",
+                "reward": -432.0928262869517,
+                "creation_time": 1750892109.3639395,
+                "auxillary_file_paths": [
+                    "results\\ia2\\MyInteligentAgent\\MyInteligentAgent-499943.pt"
+                ]
+            },
+            {
+                "steps": 500007,
+                "file_path": "results\\ia2\\MyInteligentAgent\\MyInteligentAgent-500007.onnx",
+                "reward": -432.0928262869517,
+                "creation_time": 1750892109.4196875,
+                "auxillary_file_paths": [
+                    "results\\ia2\\MyInteligentAgent\\MyInteligentAgent-500007.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500007,
+            "file_path": "results\\ia2\\MyInteligentAgent.onnx",
+            "reward": -432.0928262869517,
+            "creation_time": 1750892109.4196875,
+            "auxillary_file_paths": [
+                "results\\ia2\\MyInteligentAgent\\MyInteligentAgent-500007.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
